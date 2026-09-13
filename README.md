@@ -1,3 +1,3 @@
 # oscp-plus
 
-oscp+ 备考比较
+oscp+ 备考笔记
